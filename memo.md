@@ -3,6 +3,8 @@
 - Jamstack
 - SCSS の mixins や変数まとめる
   https://qiita.com/cha_ayu418/items/ae6d5e6144621687bd22
+- markdown
+  https://zenn.dev/fus1ondev/articles/astro-markdown
 
 ### 参考ページ
 
